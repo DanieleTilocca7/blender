@@ -1,0 +1,20 @@
+[
+    {
+    "Id": 1,
+    "Name":"Scacchiera",
+    "Type":"Hobby",
+    "Price":5
+  },
+  {
+    "Id": 2,
+    "Name":"Logo",
+    "Type":"Hobby",
+    "Price":2
+  },
+  {
+    "Id": 3,
+    "Name":"Suzanne",
+    "Type":"Animali",
+    "Price":10
+  }
+]
